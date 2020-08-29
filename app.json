@@ -1,0 +1,12 @@
+{
+  "name": "youtybee",
+  "displayName": "youtybee",
+  "expo": {
+    "name": "youtybee",
+    "slug": "youtybee",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
